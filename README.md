@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @verubee
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning visualizations in Tableau
+- 🌱 I’m currently learning PowerBI more in depth
 - 📫 How to reach me: LinkedIn link on profile
 - 😄 Pronouns: she/her
 
